@@ -1,6 +1,7 @@
 {
     "require": {
         "phpunit/phpunit": "^9.5",
-        "laminas/laminas-diactoros": "^2.8"
+        "laminas/laminas-diactoros": "^2.8",
+        "laminas/laminas-httphandlerrunner": "^2.1"
     }
 }
